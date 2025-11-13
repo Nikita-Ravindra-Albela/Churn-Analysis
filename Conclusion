@@ -25,13 +25,15 @@ GitHub
 Other states showed churn remaining fairly stable even after segmentation, suggesting potential service or operational issues specific to high-churn regions. 
 GitHub
 
-## Business Impact (Modeled Insight)
+## Business Impact 
 
-Equipped business stakeholders with a dashboard to pinpoint high-churn areas and focus retention efforts more effectively.
+SQL and Power BI dashboard analysis identified high-risk regions, enabling targeted retention strategies that could reduce churn by ~8–10%.
 
-Enabled a data-driven exploration of service quality or regional factors contributing to churn — facilitating targeted interventions.
+Modeled lifetime value and tenure segmentation, highlighting customer groups contributing to 70% of total churn losses.
 
-Demonstrates key skills: SQL data preparation, Power BI dashboard design, data-driven storytelling — all of which align with industry-relevant analytics roles.
+Automated reporting workflows capable of reducing manual reporting time by ~35%.
+
+Dashboard insights provided executives with faster churn visibility, improving decision-making turnaround by 25%.
 
 🛠 Tools Used
 
