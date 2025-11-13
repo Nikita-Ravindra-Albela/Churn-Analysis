@@ -1,0 +1,38 @@
+## Impact Section
+
+## Business Problem
+
+Customer churn poses a major revenue-threat for subscription/telecom businesses — losing customers often costs much more than acquiring new ones. This project aims to analyze churn patterns and highlight the regions and customer segments most at risk.
+
+## Analytical Approach
+
+Used a publicly available telecom churn dataset (~7K records) to identify churn drivers. 
+GitHub
+
+Performed data cleaning and transformation in SQL Server: replaced nulls, standardized data types, created optimized tables for churn analysis. 
+GitHub
+
+Created a dynamic dashboard in Power BI that visualizes KPIs: total customers, new joiners, churn count, churn rate, and regional breakdowns. 
+GitHub
+
+Built custom DAX measures and applied Power Query transformations to enable filter-by-region, customer type, and tenure.
+
+## Key Insights
+
+A region (Jammu & Kashmir) exhibited the highest churn rate, indicating location-specific risk. 
+GitHub
+
+Other states showed churn remaining fairly stable even after segmentation, suggesting potential service or operational issues specific to high-churn regions. 
+GitHub
+
+## Business Impact (Modeled Insight)
+
+Equipped business stakeholders with a dashboard to pinpoint high-churn areas and focus retention efforts more effectively.
+
+Enabled a data-driven exploration of service quality or regional factors contributing to churn — facilitating targeted interventions.
+
+Demonstrates key skills: SQL data preparation, Power BI dashboard design, data-driven storytelling — all of which align with industry-relevant analytics roles.
+
+🛠 Tools Used
+
+SQL Server | Power BI | Excel/CSV dataset | DAX calculations | Power Query transformations
