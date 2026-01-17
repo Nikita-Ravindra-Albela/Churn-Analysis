@@ -7,7 +7,7 @@ To analyze and visualize customer churn patterns using an interactive dashboard,
 
 🗂️ Dataset Source
 
-Dataset: Customer Churn Dataset (Kaggle)
+Dataset: Customer Churn Dataset (Kaggle) 
 
 Type: Public telecom customer dataset
 
